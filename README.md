@@ -48,3 +48,7 @@ preprocessor.py
 This project was developed as a collaborative team project by:
 - @ghaida-ahmed
 - @Asee1alrassan
+
+## Live Demo
+
+https://athar-gig-economy.streamlit.app/
