@@ -43,7 +43,7 @@ charts.py
 data_loader.py
 insights.py
 preprocessor.py
-
+```
 ## Team Project
 This project was developed as a collaborative team project by:
 - @ghaida-ahmed
